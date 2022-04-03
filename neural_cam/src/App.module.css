@@ -1,0 +1,77 @@
+h1, h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+
+    background-color: #F5F5F5;
+    flex-direction: row;
+    display: flex;
+    padding: 50px;
+}
+
+
+.cameraContainer {
+
+    padding: 30px;
+    background-color: #F05454;
+    border-radius: 5%;
+    /* width: 50%; */
+    /* height: 500px; */
+}
+
+.stylesContainer {
+    display: flex;
+    padding: 20px;
+
+    flex-direction: row;
+    background-color: #F5F5F5;
+
+    border-radius: 5%;
+    margin-left: 25px;
+
+}
+
+.video{
+    border-radius: 5%;
+}
+
+.closeButton {
+
+    background-color: rgb(235, 28, 28);
+    width: 20%;
+    color: white;
+    /* border: none; */
+    border-color: white;
+    border: solid;
+    border-width: 1px;
+    border-radius: 7%;
+
+    
+}
+
+.closeButton:hover{
+    cursor: pointer;
+    background-color: rgb(255, 160, 160);
+}
+
+
+
+.resetButton {
+
+    background-color: rgb(30, 180, 0);
+    width: 20%;
+    color: white;
+    /* border: none; */
+    border-color: white;
+    border: solid;
+    border-width: 1px;
+    border-radius: 7%;
+
+    
+}
+
+.resetButton:hover{
+    cursor: pointer;
+    background-color: rgb(176, 255, 160);
+}
