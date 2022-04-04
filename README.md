@@ -2,7 +2,7 @@
 
 
 A fun proejct I made a while ago and decided to push recently, Neural cam is a cam app that can run two neural style transfer models on both the
-"forground" and "background" of a picture live (if you use GPU, CPU is too slow to be consdiered real-time).
+"forground" and "background" of a live video cam (if you use GPU, CPU is too slow to be consdiered real-time).
 
 ![preview of neural cam](demo.png)
 
